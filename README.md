@@ -1,6 +1,6 @@
 # PS4-REMOTE-ODAI 🛠️
 
-[![GitHub Release](https://img.shields.io/github/v/release/if-0/PS4-REMOTE?style=for-the-badge&color=blue)](https://github.com/your-username/PS4-REMOTE-ODAI/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/if-0/PS4-REMOTE?style=for-the-badge&color=blue)](https://github.com/if-0/PS4-REMOTE/releases)
 [![Platform](https://img.shields.io/badge/Platform-PS4%20%7C%20Windows-brightgreen?style=for-the-badge)](https://github.com/if-0/PS4-REMOTE)
 
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🇬🇧 English / الإنجليزية
+## 🌍 English / الإنجليزية
 
 A simple, seamless online tool designed for downloading and installing **PKG** files directly onto your **PS4**. This tool streamlines the process by eliminating the hassle of formatting and transferring large files via USB drives.
 
