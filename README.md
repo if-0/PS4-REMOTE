@@ -2,7 +2,7 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/if-0/PS4-REMOTE?style=for-the-badge&color=blue)](https://github.com/if-0/PS4-REMOTE/releases)
 [![Platform](https://img.shields.io/badge/Platform-PS4%20%7C%20Windows-brightgreen?style=for-the-badge)](https://github.com/if-0/PS4-REMOTE)
-
+[![discord_server](https://img.shields.io/badge/discord-server-yellow?style=for-the-badge)](https://discord.gg/TTKsr96AAp)
 
 ---
 
