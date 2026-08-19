@@ -1,8 +1,8 @@
 # PS4-REMOTE-ODAI 🛠️
 
-[![GitHub Release](https://img.shields.io/github/v/release/your-username/PS4-REMOTE-ODAI?style=for-the-badge&color=blue)](https://github.com/your-username/PS4-REMOTE-ODAI/releases)
-[![Platform](https://img.shields.io/badge/Platform-PS4%20%7C%20Windows-brightgreen?style=for-the-badge)](https://github.com/your-username/PS4-REMOTE-ODAI)
-[![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](https://github.com/your-username/PS4-REMOTE-ODAI)
+[![GitHub Release](https://img.shields.io/github/v/release/if-0/PS4-REMOTE?style=for-the-badge&color=blue)](https://github.com/your-username/PS4-REMOTE-ODAI/releases)
+[![Platform](https://img.shields.io/badge/Platform-PS4%20%7C%20Windows-brightgreen?style=for-the-badge)](https://github.com/if-0/PS4-REMOTE)
+
 
 ---
 
@@ -50,8 +50,5 @@ A simple, seamless online tool designed for downloading and installing **PKG** f
 
 ## 📦 التحميل والإصدارات / Downloads & Releases
 
-> 💡 **ملاحظة / Note**: تأكد من استبدال الروابط أدناه برابط مستودعك الحقيقي بعد رفع المشروع!
-> Make sure to replace the placeholder links below with your actual repository links after uploading!
-
-* 📥 **أحدث إصدار / Latest Release**: [تحميل الإصدار v05.00 / Download v05.00](https://github.com/your-username/PS4-REMOTE-ODAI/releases/latest)
-* 📑 **صفحة الإصدارات / All Releases**: [مشاهدة جميع الإصدارات / View Releases](https://github.com/your-username/PS4-REMOTE-ODAI/releases)
+* 📥 **أحدث إصدار / Latest Release**: [تحميل الإصدار v05.00 / Download v05.00](https://github.com/if-0/PS4-REMOTE/releases/latest)
+* 📑 **صفحة الإصدارات / All Releases**: [مشاهدة جميع الإصدارات / View Releases](https://github.com/if-0/PS4-REMOTE/releases)
